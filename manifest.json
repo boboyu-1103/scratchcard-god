@@ -1,7 +1,7 @@
 {
     "name": "刮刮天神",
     "short_name": "刮刮天神",
-    "description": "簡單好用的刮刮樂選號助手",
+    "description": "信天神~得大獎",
     "start_url": "/scratchcard-god/",
     "display": "standalone",
     "background_color": "#f8f9fa",
